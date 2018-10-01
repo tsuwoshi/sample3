@@ -29,6 +29,12 @@ li{
 .answer{display: none;}
 
 .down{display: none;}
+ol{
+  padding-left: 20px;
+}
+ol li{
+  list-style: decimal;
+}
 
 /* SP */
 
