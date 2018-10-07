@@ -12,7 +12,7 @@ h1{
 
 .container{
 
-              border: 1px solid #111;
+              border-top: 1px solid #111;
 
               margin: 0 auto;
 
@@ -36,7 +36,7 @@ ol li{
   list-style: decimal;
 }
 footer{
-  width: 100%;
+  width: 95%;
   padding: 1rem 2rem;
   text-align: center;
   border-top: 1px solid #f3f3f3;
