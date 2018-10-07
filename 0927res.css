@@ -38,7 +38,7 @@ ol li{
 }
 footer{
   width: 100%;
-  padding: 1rem 2rem;
+  padding: 1rem auto;
   text-align: center;
   border-top: 1px solid #f3f3f3;
 }
