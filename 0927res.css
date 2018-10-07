@@ -38,12 +38,10 @@ ol li{
 }
 footer{
   width: 100%;
-  padding: 1rem auto;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   text-align: center;
   border-top: 1px solid #f3f3f3;
-}
-.foot_container{
-  width: 90%;
 }
 
 /* SP */
