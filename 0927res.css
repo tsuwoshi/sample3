@@ -42,6 +42,9 @@ footer{
   text-align: center;
   border-top: 1px solid #f3f3f3;
 }
+.foot_container{
+  width: 90%;
+}
 
 /* SP */
 
