@@ -35,6 +35,15 @@ ol{
 ol li{
   list-style: decimal;
 }
+footer{
+  width: 100%;
+  padding: 1rem 2rem;
+  text-align: center;
+  border-top: 1px solid #f3f3f3;
+}
+.foot_container{
+  width: 100%;
+}
 
 /* SP */
 
