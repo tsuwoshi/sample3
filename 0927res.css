@@ -78,12 +78,49 @@ footer{
 
 }
 
-/* tablet *//*
+/* tablet */
 
-@media screen and (min-width: 500px){}
+@media screen and (min-width: 500px){
+  .wrapper{
+    width: 400px;
+    margin: 0 auto;
+  }
+  li{
+    padding: 10px 5px;
+    /*border-bottom: 1px solid #f3f3f3;*/
+    width: 90%;
+  }
+  .question ol li{
+    border-bottom: 1px solid #f3f3f3;
+  }
+  span{
+    position: absolute;
+    right: 5%;
+  }
+}
 
 
 
-/* PC *//*
+/* PC */
 
-@media screen and(min-width: 800px){}
+@media screen and(min-width: 800px){
+  .wrapper{
+    width: 400px;
+    margin: 0 auto;
+  }
+  li{
+                padding: 10px 5px;
+                position: relative;
+                /*border-bottom: 1px solid #f3f3f3;*/
+
+                width: 90%;
+
+  }
+  .question ol li{
+    border-bottom: 1px solid #f3f3f3;
+  }
+  span{
+    position: absolute;
+    right: 5%;
+  }
+}
