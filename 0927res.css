@@ -63,14 +63,13 @@ footer{
               }
 
               li{
-
                             padding: 10px 5px;
-
-                            border-bottom: 1px solid #f3f3f3;
-
+                            /*border-bottom: 1px solid #f3f3f3;*/
                             width: 90%;
-
               }
+  .question ol li{
+    border-bottom: 1px solid #f3f3f3;
+  }
               span{
                 position: absolute;
                 right: 5%;
